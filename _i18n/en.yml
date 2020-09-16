@@ -13,7 +13,7 @@ global:
   terms: Terms
   privacy: Privacy
   untranslated: This page is not yet translated. If you would like to help translate it, please see the
-  outdated: The content of this page is outdated and the might be not valid anymore. Contact the community if you need support.
+  outdated: The content of this page is outdated and it might not be valid anymore. Contact the community if you need support.
   outdatedMin: This page has been updated since the translation. You can use this version, but it may be incomplete. Please use the
   outdatedVersion: English version
   upgrade: To continue using Monero, make sure your software is up-to-date with the November 30th network upgrade.
@@ -429,7 +429,7 @@ about:
 
 developer-guides:
   head: Collection of guides, documentation and useful resources for developers (in English).
-  outdated: "Methods are often added / removed / updated and may not be accurately described."
+  outdated: "Methods are often added/removed/updated and may not be accurately described."
   rpc: RPC Documentation
   daemonrpc: Daemon RPC
   daemonrpc_descr: RPC calls for the daemon. Including input, outputs and examples. In English.
@@ -648,7 +648,7 @@ specs:
   intro_link: the library
   intro1: or get in touch with the community
   pow_title: Proof of Work
-  pow: Monero uses RandomX, an ASIC-resistant and CPU-friendly POW algorithm created by Monero community members, designed to make the use of mining-specific hardware unfeasible. Monero previously used CryptoNight and variations of this algorithm
+  pow: Monero uses RandomX, an ASIC-resistant and CPU-friendly PoW algorithm created by Monero community members, designed to make the use of mining-specific hardware unfeasible. Monero previously used CryptoNight and variations of this algorithm
   pow_link: More info in the GitHub repo
   block_emission_title: Emission curve
   block_emission_pre: "To make sure there will always be an incentive to mine Monero and keep it safe, the emission is infinite. There are two main emissions:"
