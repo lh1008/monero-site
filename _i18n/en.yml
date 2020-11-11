@@ -311,7 +311,7 @@ faq:
   userguides: A collection of documents to help users interact with the Monero network and its components.
   devguides: Guides and resources for developers.
   monerosupport: The subreddit dedicated to help Monero users. Basically community members helping each others. Use the search option.
-  monerohow: "Old and known resources with a good number of guides and howto's"
+  monerohow: "Old and known resources with a good number of guides and howto's."
   qword: "What's the meaning of [technical word]?"
   aword: "The terminology used in Monero can be quite complex, for this reason we have the"
   aword1: "A comprehensive list of terms that you often see and their explanation. If you don't know what a word means or you would like to have more info about it, just visit the Moneropedia. Some example of often searched terms are: @node, @fungibility, @view-key, @pruning."
